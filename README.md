@@ -1,4 +1,4 @@
-
+if you are having a hard time following these instructions, you can [watch a video here](https://youtu.be/-knOqCdWtKw)
 # How to install ngrok
 Create your account
 ```c

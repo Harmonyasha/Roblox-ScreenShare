@@ -7,7 +7,7 @@ more owl stuff folks!
 
 ## Setup
 
-Change inside the script named ["main.py"](https://github.com/Dev0xz02/Owls-ScreenShare/blob/main/main.py) line 34,
+Change inside the script named ["main.py"](https://github.com/OwlUniversal/Roblox-ScreenShare/blob/main/main.py) line 34,
 you must replace "YourNgrokToken" with your ngrok token. You can get your ngrok's token [right here](https://dashboard.ngrok.com/get-started/setup).
 
 You can remove domain (domain variable), but if you wanna keep it = create your domain and replace "Create domain if you want" with your domain.

@@ -12,7 +12,7 @@ Create folder in %temp% with name "ngrok" and put ngrok inside
 ### Setup
 Download All Files and put all in 1 directory
 ```sh-session
-git clone https://github.com/OwlUniversal/Roblox-ScreenShare.git
+git clone https://github.com/Harmonyasha/Roblox-ScreenShare.git
 cd Roblox-ScreenShare
 pip install -r requirements.txt
 ```
